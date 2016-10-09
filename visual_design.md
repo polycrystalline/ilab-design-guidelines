@@ -8,7 +8,6 @@ permalink: /visual_design/
 
 The iLab Design Guidelines are intended to create a uniform and intuitive standard for design. This guide will not solve every problem, but should serve as starting point to decision making.
 
-## Visual Design
 
 ### Typography
 Typography heavily influences usability.
@@ -94,6 +93,7 @@ To match iLab's enterprise-wide styling, please use the following colors. Please
 | Highlight/Background Grey | | #CCCCCC  | ![image](file:///Users/jtholden/Desktop/iLab/Guidelines/images/blue-ilab.svg) |
 | Dark Grey for Font        | | #222222  | ![image](file:///Users/jtholden/Desktop/iLab/Guidelines/images/black-sky.svg) |
 
+<br>
 
 ### Accessibility
 
