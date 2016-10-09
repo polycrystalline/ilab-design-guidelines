@@ -3,17 +3,31 @@
 
   {% include head.html %}
 
+  
+
   <body>
 
-    {% include header.html %}
+ <div class="ui bottom attached segment pushable">
+  <div class="ui visible left vertical sidebar menu">
+    {% for my_page in site.pages %}
+      {% if my_page.title %}
+      <a class="item" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+      {% endif %}
+    {% endfor %}
+  </div>
+  <div class="pusher">
+    <div class="ui basic segment">
+      <h3 class="ui header">{% include header.html %}
+</h3>
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+          {{ content }}
+
+      {% include footer.html %}
+
     </div>
+  </div>
+</div>
 
-    {% include footer.html %}
 
   </body>
 
