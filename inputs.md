@@ -17,4 +17,4 @@ Inputs, specifically text, should direct the user as to what information should 
   - If removing the row only destroys or deletes a connection between two records, and is easily recovered, us a red "X" on the row.
   - If removing the row will destroy data that cannot be easily derived (e.g., name, date, PO number), use a trash can icon and display an alert warning.
   
-![inputs](images/input-row.png)
+![inputs](/images/input-row.png)

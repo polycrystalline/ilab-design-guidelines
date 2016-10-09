@@ -4,11 +4,9 @@ title: Checkboxes & Toggles
 permalink: /checkboxes_and_toggles/
 ---
 
-
-## Checkboxes & Toggles
 Checkboxes and toggles are used for options.
 
- ![toggle](images/toggle-tax-features.gif)
+![toggle](/images/toggle-tax-features.gif)
 
 #### Guidelines
 
@@ -27,7 +25,7 @@ Checkboxes and toggles are used for options.
 - Never include question marks in labels. For example:
   - "**Turn on airplane mode?**" vs. "**Airplane Mode**"
   - "**Activate Tax Feature?**" vs. "**Tax Features**"
- 
-![image](images/toggle-price.gif)
+
+![image](/images/toggle-price.gif)
 
 
