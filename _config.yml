@@ -12,5 +12,3 @@ github_username:
 # Build settings
 markdown: kramdown
 
-# Highlighter
-highlighter: pygments
