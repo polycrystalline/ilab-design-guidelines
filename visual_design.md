@@ -4,11 +4,6 @@ title: Visual Design
 permalink: /visual_design/
 ---
 
-# iLab Design Guidelines
-
-The iLab Design Guidelines are intended to create a uniform and intuitive standard for design. This guide will not solve every problem, but should serve as starting point to decision making.
-
-
 ### Typography
 Typography heavily influences usability.
 
