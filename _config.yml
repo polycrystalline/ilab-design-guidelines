@@ -1,11 +1,11 @@
 
 # Site settings
-title: iLab Design Guidelines
+title: Agilent Technologies: iLab Design Guidelines
 email:
 description: > # this means to ignore newlines until "baseurl:"
   Guidelines for the iLab WebApp
-baseurl: /ilab-design-guidelines # the subpath of your site, e.g. /blog
 url: "http://polycrystalline.github.io/" # the base hostname & protocol for your site
+baseurl: /ilab-design-guidelines # the subpath of your site, e.g. /blog
 twitter_username:
 github_username:
 
