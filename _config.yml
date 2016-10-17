@@ -4,8 +4,8 @@ title: iLab Design Guidelines
 email:
 description: > # this means to ignore newlines until "baseurl:"
   Guidelines for the iLab WebApp
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ilabsolutions.com" # the base hostname & protocol for your site
+baseurl: /ilab-design-guidelines # the subpath of your site, e.g. /blog
+url: "http://polycrystalline.github.io/" # the base hostname & protocol for your site
 twitter_username:
 github_username:
 
