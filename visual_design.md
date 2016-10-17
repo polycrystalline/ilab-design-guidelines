@@ -9,7 +9,6 @@ Typography heavily influences usability.
 
 #### Code
 
-
 	body {
 	  ...
 	  font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
@@ -81,12 +80,12 @@ To match iLab's enterprise-wide styling, please use the following colors. Please
 
 | Name                      | | Hex Code | Swatch |
 |---------------------------|-|----------|--------|
-| iLab Blue (main color)    | | #548DD4  | ![image](file:///Users/jtholden/Desktop/iLab/Guidelines/images/blue-ilab.svg) |
-| Darker Blue               | | #376092  | ![image](file:///Users/jtholden/Desktop/iLab/Guidelines/images/blue-steel.svg) |
-| Darker Grey               | | #777777  | ![image](file:///Users/jtholden/Desktop/iLab/Guidelines/images/gray-dark.svg) |
-| Highlight Orange          | | #FA7921  | ![image](file:///Users/jtholden/Desktop/iLab/Guidelines/images/orange-dutch.svg) |
-| Highlight/Background Grey | | #CCCCCC  | ![image](file:///Users/jtholden/Desktop/iLab/Guidelines/images/blue-ilab.svg) |
-| Dark Grey for Font        | | #222222  | ![image](file:///Users/jtholden/Desktop/iLab/Guidelines/images/black-sky.svg) |
+| iLab Blue (main color)    | | #548DD4  | ![image]({{ site.baseurl }}/images/blue-ilab.svg) |
+| Darker Blue               | | #376092  | ![image]({{ site.baseurl }}/images/blue-steel.svg) |
+| Darker Grey               | | #777777  | ![image]({{ site.baseurl }}/images/gray-dark.svg) |
+| Highlight Orange          | | #FA7921  | ![image]({{ site.baseurl }}/images/orange-dutch.svg) |
+| Highlight/Background Grey | | #CCCCCC  | ![image]({{ site.baseurl }}/images/blue-ilab.svg) |
+| Dark Grey for Font        | | #222222  | ![image]({{ site.baseurl }}/images/black-sky.svg) |
 
 <br>
 
@@ -97,5 +96,5 @@ We must take accessibility into account when designing and developing interfaces
 ### Breadcrumbs
 Use breadcrumbs to help give users a sense of where they are in iLab and help then navigate back and sideways.
 
-![image](file:/images/breadcrumbs-example.png)
+![image]({{ site.baseurl }}/images/breadcrumbs-example.png)
 

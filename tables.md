@@ -50,7 +50,7 @@ tr:hover i.fa-pencil-square-o {
 - Tables should be minimally responsive or scrollable for small widths.
 - Actions on a table row should not be visible unless the row is hovered by a user.
 
-![image](/images/table-show-button.gif)
+![image]({{ site.baseurl }}/images/table-show-button.gif)
 
 - Use the datatables.net filter 
 - Zebra-striping tables is OK. [Research][zebra] indicates that zebra striping does not improve speed or accuracy of answering questions with data, although users do indicate an aesthetic preference for zebra striping.

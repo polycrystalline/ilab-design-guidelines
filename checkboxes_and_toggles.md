@@ -6,7 +6,7 @@ permalink: /checkboxes_and_toggles/
 
 Checkboxes and toggles are used for options.
 
-![toggle](/images/toggle-tax-features.gif)
+![toggle]({{ site.baseurl }}/images/toggle-tax-features.gif)
 
 #### Guidelines
 
@@ -26,6 +26,6 @@ Checkboxes and toggles are used for options.
   - "**Turn on airplane mode?**" vs. "**Airplane Mode**"
   - "**Activate Tax Feature?**" vs. "**Tax Features**"
 
-![image](/images/toggle-price.gif)
+![image]({{ site.baseurl }}/images/toggle-price.gif)
 
 
