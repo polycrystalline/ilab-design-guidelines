@@ -6,7 +6,7 @@ permalink: /filters_and_navigation/
 
 iLab uses many different types of filter controls and advanced search capabilities. In general, try to use one of the filter menus in the existing codebase.
 
-![image]({{ site.baseurl }}/filter-dates.png)
+![image]({{ site.baseurl }}/images/filter-dates.png)
 
 #### Code
 For secondary and tertiary navigation and filter panels, iLab uses [vertical menus](http://semantic-ui.com/collections/menu.html#vertical-menu).
@@ -21,6 +21,6 @@ For secondary and tertiary navigation and filter panels, iLab uses [vertical men
 #### Examples
 Dropdown with text search and vertical facet with option search.
 
-![image](images/filter-search-facet.png)![image]({{ site.baseurl }}/filter-menu.png)
+![image]({{ site.baseurl }}/images/filter-search-facet.png)![image]({{ site.baseurl }}/images/filter-menu.png)
 
 
