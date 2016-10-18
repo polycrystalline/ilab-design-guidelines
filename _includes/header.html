@@ -1,9 +1,18 @@
 <div class="ui attached stackable secondary pointing menu">
   <div class="ui container">
       <a class="large header item" href="{{ site.baseurl }}/">{{ site.title }}</a>
-          {% assign pages_list = site.pages | sort:"order" %}
-          {% assign group = 'navigation' %}
-          {% include pages_list.html %}
+     {% if page.url == null or page.group == "section" %}
+      <a href="{{ site.baseurl }}/visual_design" class="item active">Guidelines</a></li>
+     {% else %}
+      <a href="{{ site.baseurl }}/visual_design" class="item">Guidelines</a></li>
+     {% endif %}
+
+     {% if page.group == "navigation" and page.title != "about" %}
+      <a href="{{ site.baseurl }}/about" class="item active">About</a></li>
+     {% else %}
+      <a href="{{ site.baseurl }}/about" class="item">About</a></li>
+     {% endif %}
+      
     </div>
   </div>
 
