@@ -4,7 +4,6 @@ title: Buttons & Actions
 permalink: /buttons-and-actions/
 ---
 
-## Buttons & Actions
 Buttons are to take actions on a form or other work.
 
 #### Code

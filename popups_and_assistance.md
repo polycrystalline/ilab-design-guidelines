@@ -4,9 +4,8 @@ title: Popups & Assistance
 permalink: /popups_and_assistance/
 ---
 
-
-## Popups & Assistance
 Popups provide additional information and assistance to help users complete their work.
+
 #### Code
 	
 	<i 
