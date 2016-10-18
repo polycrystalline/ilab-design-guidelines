@@ -40,6 +40,7 @@ Buttons are to take actions on a form or other work.
   <div class="or"></div>
   <button class="ui primary button">Nor</button>
 </div>
+<br>
 
 #### Button Color and Styling Guidelines
 Using the conventional and consistent button [colors and styling](http://uxmovement.com/buttons/how-button-color-contrast-guides-users-to-action/) speeds a user's work and prevents mistakes. First, identify what type of action button is taking:
