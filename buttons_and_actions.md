@@ -6,14 +6,14 @@ group: "section"
 order: 2
 ---
 
-Buttons are to take actions on a form or other work.
+[Buttons](http://semantic-ui.com/elements/button.html#basic) are to take actions on a form or other work.
 
 #### Code
 
-	%button.ui.black.basic.button.cancel
-	  Back
-	%button.ui.primary.button
-	  Create Item
+    %button.ui.black.basic.button.cancel
+      Back
+    %button.ui.primary.button
+      Create Item
 
 #### Guidelines
 - The primary button should be colored (i.e., high contrast).
@@ -34,6 +34,8 @@ Buttons are to take actions on a form or other work.
 <div class="ui button">
   Avoid this Button
 </div>
+<br>
+
 - Avoid using the conditional button. The conditional button lacks visual distinction between the primary and secondary action.
 <div class="ui buttons">
   <button class="ui negative button">Neither</button>
@@ -43,7 +45,9 @@ Buttons are to take actions on a form or other work.
 <br>
 
 #### Button Color and Styling Guidelines
-Using the conventional and consistent button [colors and styling](http://uxmovement.com/buttons/how-button-color-contrast-guides-users-to-action/) speeds a user's work and prevents mistakes. First, identify what type of action button is taking:
+Using the conventional and consistent button [colors and styling](http://uxmovement.com/buttons/how-button-color-contrast-guides-users-to-action/) speeds a user's work and prevents mistakes.
+
+First, identify what type of action button is taking:
 
 - Positive: updates, sends or adds information.
 - Positive plus redirect to new page.
