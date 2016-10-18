@@ -1,13 +1,9 @@
 <div class="ui attached stackable secondary pointing menu">
   <div class="ui container">
-      <div class="large header item" href="{{ site.baseurl }}/">{{ site.title
-      }}</div>
-      <a class="item">
-        Guidelines
-      </a>
-      <a class="item" href="/about">
-        About
-      </a>
+      <a class="large header item" href="{{ site.baseurl }}/">{{ site.title }}</a>
+          {% assign pages_list = site.pages | sort:"order" %}
+          {% assign group = 'navigation' %}
+          {% include pages_list.html %}
     </div>
   </div>
 
