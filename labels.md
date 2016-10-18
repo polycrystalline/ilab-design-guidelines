@@ -10,8 +10,8 @@ Use labels sparingly. Labels (a.k.a. pills) draw a user's attention so they shou
 
 #### Guidelines
 - Use [labels][label-reference] to draw attention to content.
- 
-<div class="ui blue label">NEW</div> <strong>Track all the publications associated with your core</strong>
+
+<h4 class="ui header"><div class="ui blue label">NEW</div>&nbsp; Track all the publications associated with your core</h4>
 
 - Use labels as tokens for tagging things, like email contacts, usually not displaying more thant a ten to twelve items.
 
