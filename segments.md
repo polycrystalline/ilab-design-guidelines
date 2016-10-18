@@ -2,6 +2,7 @@
 layout: page
 title: Segments (a.k.a. Panels)
 permalink: /segments/
+group: "section"
 order: 10
 ---
 

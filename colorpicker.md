@@ -2,6 +2,7 @@
 layout: page
 title: Color Picker
 permalink: /colorpicker/
+group: "section"
 order: 14
 ---
 

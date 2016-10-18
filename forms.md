@@ -2,6 +2,7 @@
 layout: page
 title: Forms
 permalink: /forms/
+group: "section"
 order: 6
 ---
 

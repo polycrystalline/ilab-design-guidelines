@@ -2,6 +2,7 @@
 layout: page
 title: Checkboxes & Toggles
 permalink: /checkboxes_and_toggles/
+group: "section"
 order: 9
 ---
 

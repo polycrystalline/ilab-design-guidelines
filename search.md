@@ -2,6 +2,7 @@
 layout: page
 title: Search
 permalink: /search/
+group: "section"
 order: 15
 ---
 

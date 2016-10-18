@@ -2,6 +2,7 @@
 layout: page
 title: Filters and Navigation
 permalink: /filters_and_navigation/
+group: "section"
 order: 4
 ---
 

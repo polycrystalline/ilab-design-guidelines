@@ -2,6 +2,7 @@
 layout: page
 title: Title Text and Favicons
 permalink: /titletext_and_favicons/
+group: "section"
 order: 12
 ---
 

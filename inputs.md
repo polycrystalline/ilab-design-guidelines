@@ -2,6 +2,7 @@
 layout: page
 title: Inputs
 permalink: /inputs/
+group: "section"
 order: 3
 ---
 

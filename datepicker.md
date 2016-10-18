@@ -2,6 +2,7 @@
 layout: page
 title: Date & Time Pickers
 permalink: /datepicker/
+group: "section"
 order: 13
 ---
 

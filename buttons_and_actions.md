@@ -2,6 +2,7 @@
 layout: page
 title: Buttons & Actions
 permalink: /buttons-and-actions/
+group: "section"
 order: 2
 ---
 

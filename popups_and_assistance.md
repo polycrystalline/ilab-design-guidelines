@@ -2,6 +2,7 @@
 layout: page
 title: Popups & Assistance
 permalink: /popups_and_assistance/
+group: "section"
 order: 8
 ---
 

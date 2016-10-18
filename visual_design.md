@@ -2,6 +2,7 @@
 layout: page
 title: Visual Design
 permalink: /visual_design/
+group: "section"
 order: 1
 ---
 

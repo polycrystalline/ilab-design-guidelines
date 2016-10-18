@@ -2,6 +2,7 @@
 layout: page
 title: Labels
 permalink: /labels/
+group: "section"
 order: 11
 ---
 

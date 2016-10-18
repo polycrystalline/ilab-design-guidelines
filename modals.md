@@ -2,6 +2,7 @@
 layout: page
 title: Modals
 permalink: /modals/
+group: "section"
 order: 7
 ---
 

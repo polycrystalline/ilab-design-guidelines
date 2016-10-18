@@ -8,12 +8,9 @@
     <div class="ui grid main container">
       <div class="four wide column">
         <div class="ui secondary vertical menu">
-          {% assign sorted_pages = site.pages | sort:"order" %}
-          {% for my_page in sorted_pages %}
-            {% if my_page.title %}
-            <a class="item" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-            {% endif %}
-          {% endfor %}
+          {% assign pages_list = site.pages | sort:"order" %}
+          {% assign group = 'section' %}
+          {% include pages_list.html %}
         </div>
       </div>
       <div class="twelve wide column">
