@@ -2,6 +2,7 @@
 layout: page
 title: Visual Design
 permalink: /visual_design/
+order: 1
 ---
 
 ### Typography

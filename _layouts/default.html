@@ -8,7 +8,8 @@
     <div class="ui grid main container">
       <div class="four wide column">
         <div class="ui secondary vertical menu">
-          {% for my_page in site.pages %}
+          {% assign sorted_pages = site.pages | sort:"order" %}
+          {% for my_page in sorted_pages %}
             {% if my_page.title %}
             <a class="item" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
             {% endif %}

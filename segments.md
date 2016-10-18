@@ -2,6 +2,7 @@
 layout: page
 title: Segments (a.k.a. Panels)
 permalink: /segments/
+order: 10
 ---
 
 [Segments](http://semantic-ui.com/elements/segment.html#colored) group and divide content. We are using the 

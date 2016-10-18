@@ -2,6 +2,7 @@
 layout: page
 title: Buttons & Actions
 permalink: /buttons-and-actions/
+order: 2
 ---
 
 Buttons are to take actions on a form or other work.

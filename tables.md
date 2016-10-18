@@ -2,6 +2,7 @@
 layout: page
 title: Tables
 permalink: /tables/
+order: 5
 ---
 
 

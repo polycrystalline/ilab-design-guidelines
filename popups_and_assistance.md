@@ -2,6 +2,7 @@
 layout: page
 title: Popups & Assistance
 permalink: /popups_and_assistance/
+order: 8
 ---
 
 Popups provide additional information and assistance to help users complete their work.

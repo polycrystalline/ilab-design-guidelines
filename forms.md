@@ -2,6 +2,7 @@
 layout: page
 title: Forms
 permalink: /forms/
+order: 6
 ---
 
 [Forms](http://semantic-ui.com/collections/form.html) are an essential way users interact with iLab and they are how users achieve their goals. Therefore, iLab forms should be straightforward and fast to complete.

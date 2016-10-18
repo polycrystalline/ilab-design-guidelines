@@ -2,6 +2,7 @@
 layout: page
 title: References
 permalink: /references/
+order: 16
 ---
 
 1. Block, Element, Modifier ([BEM](https://css-tricks.com/bem-101/))

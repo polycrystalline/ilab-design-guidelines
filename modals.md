@@ -2,6 +2,7 @@
 layout: page
 title: Modals
 permalink: /modals/
+order: 7
 ---
 
 [Modals](http://semantic-ui.com/modules/modal.html#size) prevent users from interacting with the background while focusing on a specific task. For modals iLab uses a Semantic modal and the Magnific popup library. All new work should use the Semantic version.

@@ -2,6 +2,7 @@
 layout: page
 title: Inputs
 permalink: /inputs/
+order: 3
 ---
 
 Inputs, specifically text, should direct the user as to what information should be entered.

@@ -2,6 +2,7 @@
 layout: page
 title: Filters and Navigation
 permalink: /filters_and_navigation/
+order: 4
 ---
 
 iLab uses many different types of filter controls and advanced search capabilities. In general, try to use one of the filter menus in the existing codebase.

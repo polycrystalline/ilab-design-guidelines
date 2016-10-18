@@ -2,6 +2,7 @@
 layout: page
 title: Checkboxes & Toggles
 permalink: /checkboxes_and_toggles/
+order: 9
 ---
 
 Checkboxes and toggles are used for options.

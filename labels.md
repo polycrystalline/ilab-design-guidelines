@@ -2,6 +2,7 @@
 layout: page
 title: Labels
 permalink: /labels/
+order: 11
 ---
 
 Use labels sparingly. Labels (a.k.a. pills) draw a user's attention so they should only be used to highlight things that are new or important.
