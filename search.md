@@ -42,19 +42,20 @@ Notice the border radius on the search input and the right hand search button.
 
 To get the borders to look right on this search, add the following CSS:
 
-```css
-.ui.left.action.input input {
-   border-top-right-radius: 0;
-   border-bottom-right-radius: 0;
-}
- 
-.ui.left.action.input input + button {
-   border-top-right-radius: 0.285714rem;
-   border-bottom-right-radius: 0.285714rem;
-}
+``` css
+  .ui.left.action.input input {
+     border-top-right-radius: 0;
+     border-bottom-right-radius: 0;
+  }
+
+  .ui.left.action.input input + button {
+     border-top-right-radius: 0.285714rem;
+     border-bottom-right-radius: 0.285714rem;
+  }
 ```
 
 #### Guidelines
+
 - If the primary means for interacting with the page is search, make sure it is prominent.
 - Avoid using Semantic UI's fuzzy search. It's too loose on word distances and is not easily adjustable.
 - Add placeholder text that provides context despite it being low contrast.

@@ -9,8 +9,9 @@ order: 10
 [Segments](http://semantic-ui.com/elements/segment.html#colored) group and divide content. We are using the 
 
 #### Code
-```html
-<div class="ui blue segment"></div>
+
+``` html
+  <div class="ui blue segment"></div>
 ```
 
 #### Guidelines

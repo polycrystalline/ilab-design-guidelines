@@ -14,12 +14,14 @@ Typography heavily influences usability.
 
 #### Code
 
-	body {
-	  ...
-	  font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
-	  font-size: 14px;
-	  ...
-	}
+``` css
+  body {
+    ...
+    font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+    font-size: 14px;
+    ...
+  }
+```
 
 
 #### Guidelines

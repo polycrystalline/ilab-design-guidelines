@@ -11,41 +11,43 @@ order: 5
 #### Code
 A basic striped table
 
-```haml
-%table.ui.striped.table
-  %thead
-    %tr
-      %th Item
-      %th Description
-      %th.right.aligned Qty
-      %th.right.aligned Unit Price
-      %th.right.aligned Amount
-  %tbody
-    %tr
-      %td Scans
-      %td CT Scan
-      %td.right.aligned 20
-      %td.right.aligned 30.00
-      %td.right.aligned 600.00
-```		
+``` haml
+  %table.ui.striped.table
+    %thead
+      %tr
+        %th Item
+        %th Description
+        %th.right.aligned Qty
+        %th.right.aligned Unit Price
+        %th.right.aligned Amount
+    %tbody
+      %tr
+        %td Scans
+        %td CT Scan
+        %td.right.aligned 20
+        %td.right.aligned 30.00
+        %td.right.aligned 600.00
+```
+
 You may also include a footer that includes information like a total or summary.
 
-```haml
-%tfoot
-  %tr
-    %th 3 People
-    %th 2 Approved
-    %th
-```	  
+``` haml
+  %tfoot
+    %tr
+      %th 3 People
+      %th 2 Approved
+      %th
+```
+
 Here's the CSS to make rows hover-able
 
-```css
-tr i.fa-pencil-square-o {
-   visibility: hidden;
-}
-tr:hover i.fa-pencil-square-o {
-   visibility: visible;
-}
+``` css
+  tr i.fa-pencil-square-o {
+    visibility: hidden;
+  }
+  tr:hover i.fa-pencil-square-o {
+    visibility: visible;
+  }
 ```
 
 #### Guidelines

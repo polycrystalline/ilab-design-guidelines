@@ -10,18 +10,18 @@ order: 6
 #### Code
 Creating fields that are not the full width of the grid
 
-```haml
-.ui.form
-  %h4.ui.header Reservation Time
-  .fields
-    .five.wide.field
-      %label Minimum Minutes
-      %input{:placeholder => "Min.", :type => "text"}
-    / five wide field
-    .five.wide.field
-      %label Maximum Minutes
-      %input{:placeholder => "Max.", :type => "text"}
-    / five wide field
+``` haml
+  .ui.form
+    %h4.ui.header Reservation Time
+    .fields
+      .five.wide.field
+        %label Minimum Minutes
+        %input{:placeholder => "Min.", :type => "text"}
+      / five wide field
+      .five.wide.field
+        %label Maximum Minutes
+        %input{:placeholder => "Max.", :type => "text"}
+      / five wide field
 ```
 
 

@@ -10,10 +10,12 @@ order: 2
 
 #### Code
 
+``` haml
     %button.ui.black.basic.button.cancel
       Back
     %button.ui.primary.button
       Create Item
+```
 
 #### Guidelines
 - The primary button should be colored (i.e., high contrast).
