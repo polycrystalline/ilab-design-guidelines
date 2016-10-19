@@ -7,7 +7,9 @@ order: 1
 ---
 
 <a name="typography"></a>
+
 ### Typography
+
 Typography heavily influences usability.
 
 #### Code
