@@ -6,7 +6,10 @@ group: "section"
 order: 1
 ---
 
-<a name="typography"></a>
+
+[Typography](#typography) | [Capitalization](#capitalization) |  [Currency](#currency) |  [Dates](#date-formats)|[Alignment](#alignment)|[Color](#color)|[Accessibility](#accessibility)|[Breadcrumbs](#breadcrumbs)
+
+<br>
 
 ### Typography
 
@@ -99,6 +102,7 @@ To match iLab's enterprise-wide styling, please use the following colors. Please
 ### Accessibility
 
 We must take accessibility into account when designing and developing interfaces. iLab is reviewing the U.S. Governments [Section 508 Standards](http://www.section508.gov/content/learn/standards) as a potential guideline.
+
 
 ### Breadcrumbs
 Use breadcrumbs to help give users a sense of where they are in iLab and help then navigate back and sideways.
