@@ -8,6 +8,7 @@ order: 5
 
 
 [Tables](http://semantic-ui.com/collections/table.html#single-line) are best for organizing structured datasets where each row represents a record.
+
 #### Code
 A basic striped table
 
